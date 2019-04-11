@@ -5,5 +5,7 @@ end
 
 ## Comment the below back in to see method scope in action!
 
+=begin
 rescue_princess_peach
 puts status
+=end
